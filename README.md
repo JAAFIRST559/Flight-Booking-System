@@ -104,14 +104,14 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 
 
 ## Author
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://www.linkedin.com/in/jaafirst559-5a1b43222/)](https://www.linkedin.com/in/jaafirst559-5a1b43222/)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-JASFIRST559-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/JAAFIRST559)
 
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
 ## Contributions Welcome
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/JAAFIRST559/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/JAAFIRST559/Flight-Booking-System)
 
 If you find any bugs, have suggestions, or face issues:
 
