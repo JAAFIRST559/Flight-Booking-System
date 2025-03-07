@@ -141,7 +141,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/jaafirst559-5a1b43222/">JASM
 
 <hr>
 
-- <b>🛠️ Product Builder:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
+- <b>🛠️ Product Builder:</b> Software Devolopement Engineer with hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
  
 - <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/JAAFIRST559">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
 
