@@ -52,25 +52,25 @@ the pay button consider the transaction done and mark the seat sold.
 #### Home Pages
 <p align="middle">
    <img src="/IMAGES/main.png" width="400"/>
-   <img src="../master/Images/main2.png" width="400"/>
+   <img src="/IMAGES/main2.png" width="400"/>
 </p>
 
 #### Login Page and Book Flight
 <p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
-   <img src="../master/Images/book.png" width="400"/>
+   <img src="/IMAGES/login.png" width="400"/>
+   <img src="/IMAGES/book.png" width="400"/>
 </p>
 
 #### Current Bookings and Itinerary
 <p align="middle">
-   <img src="../master/Images/current.png" width="400"/>
-   <img src="../master/Images/itenary.png" width="400"/>
+   <img src="/IMAGES/current.png" width="400"/>
+   <img src="/IMAGES/itenary.png" width="400"/>
 </p>
 
 #### Seat Features and Approval
 <p align="middle">
-   <img src="../master/Images/features.png" width="400"/>
-   <img src="../master/Images/approve.png" width="400"/>
+   <img src="/IMAGES/features.png" width="400"/>
+   <img src="/IMAGES/approve.png" width="400"/>
 </p>
 
 
@@ -93,8 +93,8 @@ the pay button consider the transaction done and mark the seat sold.
 ```
 
 <p align="middle">
-   <img src="../master/Images/tomcat.png" width="400"/>
-   <img src="../master/Images/tomcat-users-xml.png" width="400"/>
+   <img src="/IMAGES/tomcat.png" width="400"/>
+   <img src="/IMAGES/tomcat-users-xml.png" width="400"/>
 </p>
 
 Morever, open and read the file. Only the users authenticated in this file are allowed to login and use the Booking System. Use above mentioned credentials to login through the Login Page.
@@ -122,11 +122,7 @@ If you find any bugs, have suggestions, or face issues:
 This project thrives on community collaboration! Members are encouraged to take the initiative, support one another, and actively engage in all aspects of the project. Whether it’s debugging, fixing issues, or brainstorming new ideas, your contributions are what keep this project moving forward.
 
 With modern AI tools like ChatGPT, solving challenges and contributing effectively is easier than ever. Let’s work together to make this project the best it can be! 🚀
-
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
-
-Copyright (c) 2018-present, harismuneer                                                        
+                                                        
 
 <!-- PROFILE_INTRO_START -->
 
