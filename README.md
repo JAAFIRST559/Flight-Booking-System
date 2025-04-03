@@ -130,9 +130,6 @@ With modern AI tools like ChatGPT, solving challenges and contributing effective
 Hey there, I'm <a href="https://www.linkedin.com/in/jaafirst559-5a1b43222/">JASMINE ILAKKIA NEVISKENNEDY</a> 👨🏻‍💻
 </h1>
 
-
-<a href="https://github.com/JAAFIRST559"><img alt="Total Github Stars"></a>
-
 <hr>
 
 - <b>🛠️ Product Builder:</b> Software Devolopement Engineer with hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
