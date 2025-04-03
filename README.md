@@ -51,7 +51,7 @@ the pay button consider the transaction done and mark the seat sold.
 
 #### Home Pages
 <p align="middle">
-   <img src="Images/main.png" width="400"/>
+   <img src="../Images/main.png" width="400"/>
    <img src="../master/Images/main2.png" width="400"/>
 </p>
 
