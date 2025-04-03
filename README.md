@@ -2,8 +2,6 @@
 
 
 <a href="[https://github.com/JAAFIRST559](https://github.com/JAAFIRST559)">
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-((https://github.com/JAAFIRST559/Flight-Booking-System))
 
 Developed a **web-based Flight Booking System** for Turkish Airlines that is fully responsive, utilizing the **Model View Controller (MVC)** Architecture with Java Servlets and **Java Server Pages (JSPs)**. The system includes robust authentication and authorization using Tomcat Roles. Additionally, it is fortified against **SQL Injection and Cross-Site Scripting** attacks to ensure security.
 
