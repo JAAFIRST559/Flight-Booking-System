@@ -85,9 +85,9 @@ the pay button consider the transaction done and mark the seat sold.
 <role rolename="Admin"/>
 <role rolename="Customer"/>
 
-<user username="haris@admin.com" password="a" roles="Admin"/>
-<user username="haris@manager.com" password="m" roles="Manager"/>
-<user username="shariq@customer.com" password="c" roles="Customer"/>
+<user username="jasmine@admin.com" password="a" roles="Admin"/>
+<user username="jasmine@manager.com" password="m" roles="Manager"/>
+<user username="ilakkia@customer.com" password="c" roles="Customer"/>
 ```
 
 <p align="middle">
